@@ -1,0 +1,11 @@
+{
+  "versioncode": 3,
+  "url": "https://play.google.com/store/apps/details?id=movies.vtorrent",
+  "message": "Please update the latest version to enjoy new features",
+  "torrenturl" : "https://piraatprox.in/",
+  "isCompulsaryUpdate" : true , 
+  "isPositiveEnable" : true,
+  "isNegativeEnable" : true,
+  "positive" : "Continue",
+  "negative" : "Update"
+}
